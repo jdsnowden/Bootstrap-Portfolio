@@ -1,0 +1,26 @@
+body    {
+    background-image: url(doodles.png)
+}
+
+.jumbotron-fluid {
+    margin: 129px;
+}
+
+h2 {
+    font-size: 18pt;
+    color: white;
+    font-family:  'Lora', serif;
+}
+
+p   {
+    font-family:  'Lora', serif;
+}
+
+h5 {
+    font-family:  'Lora', serif;
+}
+
+p3   {
+    font-family:  'Lora', serif;
+    margin-bottom: 0rem;
+}
